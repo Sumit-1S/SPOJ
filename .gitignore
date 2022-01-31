@@ -1,3 +1,5 @@
 *.exe
 ____*.cpp
 temp*.cpp
+*.bin
+.cph
